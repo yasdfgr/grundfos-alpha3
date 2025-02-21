@@ -12,7 +12,7 @@ Share knowledge about Grundfos Alpha3 pumps.
 
 :warning: Discription of full disassembly.
 
-## Overwiew
+## Overview
 
 <img src="images/01_overview.JPG" style="height:200px" alt="overview"><br>
 <img src="images/43_pump_top.JPG" style="height:200px">
@@ -41,3 +41,26 @@ The display is hold in place by 4 hooks. Use a screwdriver go under the edge, ne
 <img src="images/34_dis.JPG" style="height:200px"><br>
 
 You can see the damage of the hooks and the edge of the display.
+
+Collection of Symbols  
+:triangular_ruler:
+:wrench:
+:hammer_and_wrench:
+:locked:
+:unlocked:
+:key:
+:light_bulb:
+:safety_vest:
+:warning:
+:no_entry:
+:prohibited:
+:red_question_mark:
+:check_mark_button:
+:cross_mark_button:
+:check_mark:
+:cross_mark:
+:information:
+:bust_in_silhouette:
+:busts_in_silhouette:
+:index_pointing_up:
+:writing_hand:
