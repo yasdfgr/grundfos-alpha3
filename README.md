@@ -52,10 +52,12 @@ Discripton of full disassembly.
 ## Step 1: remove pump
 This is the easy part. You have 4 inbus screws to remove. Pull the pump out. Thats it.
 
-<img scr="/images/2025-02-15 12.18.17.JPG">  
+<img scr="./images/2025-02-15 12.18.17.JPG">  
+
+![Employee data](/repository/images/2025-02-15_12.18.17.JPG?raw=true "Employee Data title")
 
 <div style="width:60px ; height:60px">
-![Employee data](/images/2025-02-15 12.18.17.JPG?raw=true "Employee Data title")
+![Employee data](/repository/images/2025-02-15_12.18.17.JPG?raw=true "Employee Data title")
 </div>
 
 ## Step 2: remove pump housing
