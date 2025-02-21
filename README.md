@@ -1,18 +1,34 @@
 # grundfos-alpha3
 Share knowledge about Grundfos Alpha3 pumps.
 
-# Todo
+## <a name='Tableofcontent'></a>Table of content
+<!-- vscode-markdown-toc -->
+* [Table of content](#Tableofcontent)
+* [Todo](#Todo)
+* [How to open the housing](#Howtoopenthehousing)
+* [Overview](#Overview)
+* [Step 1: remove pump](#Step1:removepump)
+* [Step 2: remove pump housing](#Step2:removepumphousing)
+* [Step 3: remove display](#Step3:removedisplay)
+
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+## <a name='Todo'></a>Todo
 
 + [x] one
 + [ ] two
 
-# How to open the housing
+## <a name='Howtoopenthehousing'></a>How to open the housing
 > [!WARNING]  
 > The pump is obviously not made to get repaired. Everything is assembled with a snap system. After disassembling some plastic hooks / noses will be defective.
 
 :warning: Discription of full disassembly.
 
-## Overview
+## <a name='Overview'></a>Overview
 
 <img src="images/01_overview.JPG" style="height:200px" alt="overview"><br>
 <img src="images/43_pump_top.JPG" style="height:200px">
@@ -20,10 +36,10 @@ Share knowledge about Grundfos Alpha3 pumps.
 <img src="images/12_ttb_pcb.JPG" style="height:200px">
 <img src="images/11_ttb_display.JPG" style="height:200px">
 
-## Step 1: remove pump
+## <a name='Step1:removepump'></a>Step 1: remove pump
 This is the easy part. You have 4 inbus screws to remove. Pull the pump out. Thats it.
 
-## Step 2: remove pump housing
+## <a name='Step2:removepumphousing'></a>Step 2: remove pump housing
 Look at the housing. There are 4 slots. If you look closely you can see, that there is a snap system in two of the slots.
 The good thing is, that you can use a screwdriver to lever out the latching nose.
 
@@ -32,7 +48,7 @@ The good thing is, that you can use a screwdriver to lever out the latching nose
 <img src="images/43_pump_top.JPG" style="height:200px">
 <img src="images/44_pump_back.JPG" style="height:200px">
 
-## Step 3: remove display
+## <a name='Step3:removedisplay'></a>Step 3: remove display
 The display is hold in place by 4 hooks. Use a screwdriver go under the edge, near the hook and carefully lift off the display. You need some force and the plastic hook will break.
 
 <img src="images/31_dis_1.JPG" style="height:200px">
