@@ -1,40 +1,3 @@
-<style>
-.green {
-    color: green;
-}
-
-mark {
-  background-color: transparent !important;
-  color: green !important;
-  padding: 0.2em;
-  border-radius: 0.3em;
-}
-
-mark.one {
-  background: linear-gradient(
-  -100deg,
-  hsla(48,92%,75%,.3),
-  hsla(48,92%,75%,.7) 95%,
-  hsla(48,92%,75%,.1)
-  ) !important;
-  color: darkblue !important;
-  border-radius: 1em 0 !important;
-  padding: .3em !important;
-  }
-
-  #m1{
-  background-color: red  !important;
-  color: darkblue !important;
-  padding: 0.2em  !important;
-  border-radius: 0.3em  !important;
-}
-
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
-
 # grundfos-alpha3
 Share knowledge about Grundfos Alpha3 pumps.
 
@@ -47,32 +10,34 @@ Share knowledge about Grundfos Alpha3 pumps.
 > [!WARNING]  
 > The pump is obviously not made to get repaired. Everything is assembled with a snap system. After disassembling some plastic hooks / noses will be defective.
 
-Discripton of full disassembly.
+:warning: Discription of full disassembly.
+
+## Overwiew
+
+<img src="images/01_overview.JPG" style="height:200px" alt="overview"><br>
+<img src="images/43_pump_top.JPG" style="height:200px">
+<img src="images/13_ttb_housing_top.JPG" style="height:200px">
+<img src="images/12_ttb_pcb.JPG" style="height:200px">
+<img src="images/11_ttb_display.JPG" style="height:200px">
 
 ## Step 1: remove pump
 This is the easy part. You have 4 inbus screws to remove. Pull the pump out. Thats it.
 
-<img scr="./images/2025-02-15 12.18.17.JPG">  
-
-![Employee data](/repository/images/2025-02-15_12.18.17.JPG?raw=true "Employee Data title")
-
-<div style="width:60px ; height:60px">
-![Employee data](/repository/images/2025-02-15_12.18.17.JPG?raw=true "Employee Data title")
-</div>
-
 ## Step 2: remove pump housing
 Look at the housing. There are 4 slots. If you look closely you can see, that there is a snap system in two of the slots.
-The good thing is, that you can use a screwdriver to lever out the latching nose. 
+The good thing is, that you can use a screwdriver to lever out the latching nose.
+
+<img src="images/41_dis_clips.JPG" style="height:200px">
+<img src="images/42_dis_overview.JPG" style="height:200px">
+<img src="images/43_pump_top.JPG" style="height:200px">
+<img src="images/44_pump_back.JPG" style="height:200px">
 
 ## Step 3: remove display
 The display is hold in place by 4 hooks. Use a screwdriver go under the edge, near the hook and carefully lift off the display. You need some force and the plastic hook will break.
 
-<mark>style with overwrite, does only work with !important</mark>
+<img src="images/31_dis_1.JPG" style="height:200px">
+<img src="images/32_dis.JPG" style="height:200px">
+<img src="images/33_dis.JPG" style="height:200px">
+<img src="images/34_dis.JPG" style="height:200px"><br>
 
-<mark id="m1">style with id</mark>
-
-<mark class="one">style with class</mark>  
-
-<mark style="background-color: yellow !important; color: darkblue !important;"> style with local overwrite</mark>
-
-
+You can see the damage of the hooks and the edge of the display.
