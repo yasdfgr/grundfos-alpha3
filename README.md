@@ -1,6 +1,11 @@
 # grundfos-alpha3
 Share knowledge about Grundfos Alpha3 pumps.
 
+# Todo
+
++ [x] one
++ [ ] two
+
 # How to open the housing
 > [!WARNING]  
 > The pump is obviously not made to get repaired. Everything is assembled with a snap system. After disassembling some plastic hooks / noses will be defective.
