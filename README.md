@@ -1,5 +1,7 @@
 # grundfos-alpha3
-Share knowledge about Grundfos Alpha3 pumps.
+Share knowledge about Grundfos Alpha3 pumps.  
+Other projects  
++ https://github.com/pdw-mb/esp32-recirc-pump-controller
 
 ## <a name='Tableofcontent'></a>Table of content
 <!-- vscode-markdown-toc -->
