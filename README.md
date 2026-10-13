@@ -13,6 +13,7 @@ Other projects
 * [Step 1: remove pump](#Step1:removepump)
 * [Step 2: remove pump housing](#Step2:removepumphousing)
 * [Step 3: remove display](#Step3:removedisplay)
+* [Step 4: unblock the rotor / disassemble the pump](#Step4:unblocktherotordisassemblethepump)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -62,8 +63,8 @@ The display is hold in place by 4 hooks. Use a screwdriver go under the edge, ne
 
 You can see the damage of the hooks and the edge of the display.
 
-## Step 4: unblock the rotor / disassemble the pump
-One common error is a blocked rotor. The best way to unblock is to lever carefully between the rotor and the housing or press the rotor on a flat surface. After it's loose it should also rotate again.
+## <a name='Step4:unblocktherotordisassemblethepump'></a>Step 4: unblock the rotor / disassemble the pump
+One common error is a blocked rotor. The best way to unblock is to lever carefully between the rotor and the housing or press the rotor on a flat surface. After it's loose it should also rotate again.  
 <img src="images/52_unblock.png" style="height:200px">
 
 > [!WARNING]  
